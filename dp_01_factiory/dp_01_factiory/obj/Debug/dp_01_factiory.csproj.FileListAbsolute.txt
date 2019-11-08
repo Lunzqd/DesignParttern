@@ -1,0 +1,10 @@
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\bin\Debug\dp_01_factiory.exe.config
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\bin\Debug\dp_01_factiory.exe
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\bin\Debug\dp_01_factiory.pdb
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\obj\Debug\dp_01_factiory.csprojResolveAssemblyReference.cache
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\obj\Debug\dp_01_factiory.Form1.resources
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\obj\Debug\dp_01_factiory.Properties.Resources.resources
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\obj\Debug\dp_01_factiory.csproj.GenerateResource.Cache
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\obj\Debug\dp_01_factiory.csproj.CoreCompileInputs.cache
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\obj\Debug\dp_01_factiory.exe
+c:\users\jason\source\repos\dp_01_factiory\dp_01_factiory\obj\Debug\dp_01_factiory.pdb
